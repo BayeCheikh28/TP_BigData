@@ -1,0 +1,5 @@
+data/raw/*.csv
+db/*.db
+__pycache__/
+*.pyc
+.streamlit/
